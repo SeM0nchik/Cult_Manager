@@ -67,7 +67,7 @@ namespace MenuLibrary
 
             Field = all[result - 1];
 
-            text = "1.Провести обычную сортировку" + Environment.NewLine + "2.Провести обратную сортировку";
+            text = "1.Провести обычную сортировку" + Environment.NewLine + "2.Провести обратную сортировку" + Environment.NewLine;
             text += "Введите либо 1 либо 2:";
             
             input = GetDialogInput(text);

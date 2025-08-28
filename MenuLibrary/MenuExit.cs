@@ -1,4 +1,4 @@
-﻿using JsonObject;
+using JsonObject;
 namespace MenuLibrary
 {
     /// <summary>
@@ -13,7 +13,13 @@ namespace MenuLibrary
         /// </summary>
         public MenuExit() : base("Выход", new []{"Выход из программы", "Вернуться в главное меню"})
         {
-            Actions = new []{() => Environment.Exit(0), Return};
+            Actions = new []{ () => Clear(), Return};
+        }
+
+        private void Clear()
+        {
+            Console.Clear();
+            Environment.Exit(0);
         }
         
         public MenuExit(string sortStatis, string filterStatus, CultCollection allCults, CultCollection selectedCults) : this()

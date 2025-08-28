@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "dfrxP5ee+8g=",
+  "success": true,
+  "projectFilePath": "/Users/sem0nch1k/Documents/ВШЭ/Первый курс/С#/Проекты/Модуль№3/Проект_3_ВтораяСдача 2/Project_3_Advanced/MenuLibrary/MenuLibrary.csproj",
+  "expectedPackageFiles": [
+    "/Users/sem0nch1k/.nuget/packages/nstack.core/1.1.1/nstack.core.1.1.1.nupkg.sha512",
+    "/Users/sem0nch1k/.nuget/packages/system.codedom/8.0.0/system.codedom.8.0.0.nupkg.sha512",
+    "/Users/sem0nch1k/.nuget/packages/system.management/8.0.0/system.management.8.0.0.nupkg.sha512",
+    "/Users/sem0nch1k/.nuget/packages/system.valuetuple/4.5.0/system.valuetuple.4.5.0.nupkg.sha512",
+    "/Users/sem0nch1k/.nuget/packages/terminal.gui/1.16.0/terminal.gui.1.16.0.nupkg.sha512"
+  ],
+  "logs": []
+}

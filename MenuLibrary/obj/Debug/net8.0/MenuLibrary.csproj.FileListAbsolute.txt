@@ -1,0 +1,97 @@
+D:/University/C# codes/Проекты/Project/MenuLibrary/bin/Debug/net8.0/MenuLibrary.deps.json
+D:/University/C# codes/Проекты/Project/MenuLibrary/bin/Debug/net8.0/MenuLibrary.dll
+D:/University/C# codes/Проекты/Project/MenuLibrary/bin/Debug/net8.0/MenuLibrary.pdb
+D:/University/C# codes/Проекты/Project/MenuLibrary/bin/Debug/net8.0/JsonObjects.dll
+D:/University/C# codes/Проекты/Project/MenuLibrary/bin/Debug/net8.0/JsonObjects.pdb
+D:/University/C# codes/Проекты/Project/MenuLibrary/obj/Debug/net8.0/MenuLibrary.csproj.AssemblyReference.cache
+D:/University/C# codes/Проекты/Project/MenuLibrary/obj/Debug/net8.0/MenuLibrary.GeneratedMSBuildEditorConfig.editorconfig
+D:/University/C# codes/Проекты/Project/MenuLibrary/obj/Debug/net8.0/MenuLibrary.AssemblyInfoInputs.cache
+D:/University/C# codes/Проекты/Project/MenuLibrary/obj/Debug/net8.0/MenuLibrary.AssemblyInfo.cs
+D:/University/C# codes/Проекты/Project/MenuLibrary/obj/Debug/net8.0/MenuLibrary.csproj.CoreCompileInputs.cache
+D:/University/C# codes/Проекты/Project/MenuLibrary/obj/Debug/net8.0/MenuLibr.7E56DCD1.Up2Date
+D:/University/C# codes/Проекты/Project/MenuLibrary/obj/Debug/net8.0/MenuLibrary.dll
+D:/University/C# codes/Проекты/Project/MenuLibrary/obj/Debug/net8.0/refint/MenuLibrary.dll
+D:/University/C# codes/Проекты/Project/MenuLibrary/obj/Debug/net8.0/MenuLibrary.pdb
+D:/University/C# codes/Проекты/Project/MenuLibrary/obj/Debug/net8.0/ref/MenuLibrary.dll
+D:/University/C# codes/Проекты/Project/MenuLibrary/bin/Debug/net8.0/Parser.dll
+D:/University/C# codes/Проекты/Project/MenuLibrary/bin/Debug/net8.0/Parser.pdb
+D:/University/C# codes/Проекты/Project/MenuLibrary/bin/Debug/net8.0/Table.dll
+D:/University/C# codes/Проекты/Project/MenuLibrary/bin/Debug/net8.0/Table.pdb
+D:/University/C# codes/Проекты/Project/MenuLibrary/bin/Debug/net8.0/Drawer.dll
+D:/University/C# codes/Проекты/Project/MenuLibrary/bin/Debug/net8.0/Drawer.pdb
+D:/University/C# codes/Проекты/Модуль№3/Project_3_/MenuLibrary/obj/Debug/net8.0/MenuLibrary.dll
+D:/University/C# codes/Проекты/Модуль№3/Project_3_/MenuLibrary/obj/Debug/net8.0/refint/MenuLibrary.dll
+D:/University/C# codes/Проекты/Модуль№3/Project_3_/MenuLibrary/obj/Debug/net8.0/MenuLibrary.pdb
+D:/University/C# codes/Проекты/Модуль№3/Project_3_/MenuLibrary/bin/Debug/net8.0/MenuLibrary.deps.json
+D:/University/C# codes/Проекты/Модуль№3/Project_3_/MenuLibrary/bin/Debug/net8.0/MenuLibrary.dll
+D:/University/C# codes/Проекты/Модуль№3/Project_3_/MenuLibrary/bin/Debug/net8.0/MenuLibrary.pdb
+D:/University/C# codes/Проекты/Модуль№3/Project_3_/MenuLibrary/bin/Debug/net8.0/JsonObject.dll
+D:/University/C# codes/Проекты/Модуль№3/Project_3_/MenuLibrary/bin/Debug/net8.0/Parser.dll
+D:/University/C# codes/Проекты/Модуль№3/Project_3_/MenuLibrary/bin/Debug/net8.0/StateMachine.dll
+D:/University/C# codes/Проекты/Модуль№3/Project_3_/MenuLibrary/bin/Debug/net8.0/JsonObject.pdb
+D:/University/C# codes/Проекты/Модуль№3/Project_3_/MenuLibrary/bin/Debug/net8.0/Parser.pdb
+D:/University/C# codes/Проекты/Модуль№3/Project_3_/MenuLibrary/bin/Debug/net8.0/StateMachine.pdb
+D:/University/C# codes/Проекты/Модуль№3/Project_3_/MenuLibrary/obj/Debug/net8.0/MenuLibrary.csproj.AssemblyReference.cache
+D:/University/C# codes/Проекты/Модуль№3/Project_3_/MenuLibrary/obj/Debug/net8.0/MenuLibrary.GeneratedMSBuildEditorConfig.editorconfig
+D:/University/C# codes/Проекты/Модуль№3/Project_3_/MenuLibrary/obj/Debug/net8.0/MenuLibrary.AssemblyInfoInputs.cache
+D:/University/C# codes/Проекты/Модуль№3/Project_3_/MenuLibrary/obj/Debug/net8.0/MenuLibrary.AssemblyInfo.cs
+D:/University/C# codes/Проекты/Модуль№3/Project_3_/MenuLibrary/obj/Debug/net8.0/MenuLibrary.csproj.CoreCompileInputs.cache
+D:/University/C# codes/Проекты/Модуль№3/Project_3_/MenuLibrary/obj/Debug/net8.0/MenuLibr.7E56DCD1.Up2Date
+D:/University/C# codes/Проекты/Модуль№3/Project_3_/MenuLibrary/obj/Debug/net8.0/ref/MenuLibrary.dll
+D:/University/C# codes/Проекты/Модуль№3/Project_3_Advanced/MenuLibrary/bin/Debug/net8.0/MenuLibrary.deps.json
+D:/University/C# codes/Проекты/Модуль№3/Project_3_Advanced/MenuLibrary/bin/Debug/net8.0/MenuLibrary.dll
+D:/University/C# codes/Проекты/Модуль№3/Project_3_Advanced/MenuLibrary/bin/Debug/net8.0/MenuLibrary.pdb
+D:/University/C# codes/Проекты/Модуль№3/Project_3_Advanced/MenuLibrary/bin/Debug/net8.0/JsonObject.dll
+D:/University/C# codes/Проекты/Модуль№3/Project_3_Advanced/MenuLibrary/bin/Debug/net8.0/Parser.dll
+D:/University/C# codes/Проекты/Модуль№3/Project_3_Advanced/MenuLibrary/bin/Debug/net8.0/StateMachine.dll
+D:/University/C# codes/Проекты/Модуль№3/Project_3_Advanced/MenuLibrary/bin/Debug/net8.0/JsonObject.pdb
+D:/University/C# codes/Проекты/Модуль№3/Project_3_Advanced/MenuLibrary/bin/Debug/net8.0/Parser.pdb
+D:/University/C# codes/Проекты/Модуль№3/Project_3_Advanced/MenuLibrary/bin/Debug/net8.0/StateMachine.pdb
+D:/University/C# codes/Проекты/Модуль№3/Project_3_Advanced/MenuLibrary/obj/Debug/net8.0/MenuLibrary.csproj.AssemblyReference.cache
+D:/University/C# codes/Проекты/Модуль№3/Project_3_Advanced/MenuLibrary/obj/Debug/net8.0/MenuLibrary.GeneratedMSBuildEditorConfig.editorconfig
+D:/University/C# codes/Проекты/Модуль№3/Project_3_Advanced/MenuLibrary/obj/Debug/net8.0/MenuLibrary.AssemblyInfoInputs.cache
+D:/University/C# codes/Проекты/Модуль№3/Project_3_Advanced/MenuLibrary/obj/Debug/net8.0/MenuLibrary.AssemblyInfo.cs
+D:/University/C# codes/Проекты/Модуль№3/Project_3_Advanced/MenuLibrary/obj/Debug/net8.0/MenuLibrary.csproj.CoreCompileInputs.cache
+D:/University/C# codes/Проекты/Модуль№3/Project_3_Advanced/MenuLibrary/obj/Debug/net8.0/MenuLibr.7E56DCD1.Up2Date
+D:/University/C# codes/Проекты/Модуль№3/Project_3_Advanced/MenuLibrary/obj/Debug/net8.0/MenuLibrary.dll
+D:/University/C# codes/Проекты/Модуль№3/Project_3_Advanced/MenuLibrary/obj/Debug/net8.0/refint/MenuLibrary.dll
+D:/University/C# codes/Проекты/Модуль№3/Project_3_Advanced/MenuLibrary/obj/Debug/net8.0/MenuLibrary.pdb
+D:/University/C# codes/Проекты/Модуль№3/Project_3_Advanced/MenuLibrary/obj/Debug/net8.0/ref/MenuLibrary.dll
+D:/University/C# codes/Проекты/Модуль№3/Проект_3_ВтораяСдача/Project_3_Advanced/MenuLibrary/obj/Debug/net8.0/MenuLibrary.csproj.AssemblyReference.cache
+D:/University/C# codes/Проекты/Модуль№3/Проект_3_ВтораяСдача/Project_3_Advanced/MenuLibrary/obj/Debug/net8.0/MenuLibrary.GeneratedMSBuildEditorConfig.editorconfig
+D:/University/C# codes/Проекты/Модуль№3/Проект_3_ВтораяСдача/Project_3_Advanced/MenuLibrary/obj/Debug/net8.0/MenuLibrary.AssemblyInfoInputs.cache
+D:/University/C# codes/Проекты/Модуль№3/Проект_3_ВтораяСдача/Project_3_Advanced/MenuLibrary/obj/Debug/net8.0/MenuLibrary.AssemblyInfo.cs
+D:/University/C# codes/Проекты/Модуль№3/Проект_3_ВтораяСдача/Project_3_Advanced/MenuLibrary/obj/Debug/net8.0/MenuLibrary.csproj.CoreCompileInputs.cache
+D:/University/C# codes/Проекты/Модуль№3/Проект_3_ВтораяСдача/Project_3_Advanced/MenuLibrary/obj/Debug/net8.0/MenuLibrary.dll
+D:/University/C# codes/Проекты/Модуль№3/Проект_3_ВтораяСдача/Project_3_Advanced/MenuLibrary/obj/Debug/net8.0/refint/MenuLibrary.dll
+D:/University/C# codes/Проекты/Модуль№3/Проект_3_ВтораяСдача/Project_3_Advanced/MenuLibrary/obj/Debug/net8.0/MenuLibrary.pdb
+D:/University/C# codes/Проекты/Модуль№3/Проект_3_ВтораяСдача/Project_3_Advanced/MenuLibrary/bin/Debug/net8.0/MenuLibrary.deps.json
+D:/University/C# codes/Проекты/Модуль№3/Проект_3_ВтораяСдача/Project_3_Advanced/MenuLibrary/bin/Debug/net8.0/MenuLibrary.dll
+D:/University/C# codes/Проекты/Модуль№3/Проект_3_ВтораяСдача/Project_3_Advanced/MenuLibrary/bin/Debug/net8.0/MenuLibrary.pdb
+D:/University/C# codes/Проекты/Модуль№3/Проект_3_ВтораяСдача/Project_3_Advanced/MenuLibrary/bin/Debug/net8.0/JsonObject.dll
+D:/University/C# codes/Проекты/Модуль№3/Проект_3_ВтораяСдача/Project_3_Advanced/MenuLibrary/bin/Debug/net8.0/Parser.dll
+D:/University/C# codes/Проекты/Модуль№3/Проект_3_ВтораяСдача/Project_3_Advanced/MenuLibrary/bin/Debug/net8.0/StateMachine.dll
+D:/University/C# codes/Проекты/Модуль№3/Проект_3_ВтораяСдача/Project_3_Advanced/MenuLibrary/bin/Debug/net8.0/JsonObject.pdb
+D:/University/C# codes/Проекты/Модуль№3/Проект_3_ВтораяСдача/Project_3_Advanced/MenuLibrary/bin/Debug/net8.0/Parser.pdb
+D:/University/C# codes/Проекты/Модуль№3/Проект_3_ВтораяСдача/Project_3_Advanced/MenuLibrary/bin/Debug/net8.0/StateMachine.pdb
+D:/University/C# codes/Проекты/Модуль№3/Проект_3_ВтораяСдача/Project_3_Advanced/MenuLibrary/obj/Debug/net8.0/MenuLibr.7E56DCD1.Up2Date
+D:/University/C# codes/Проекты/Модуль№3/Проект_3_ВтораяСдача/Project_3_Advanced/MenuLibrary/obj/Debug/net8.0/ref/MenuLibrary.dll
+/Users/sem0nch1k/Documents/ВШЭ/Первый курс/С#/Проекты/Модуль№3/Проект_3_ВтораяСдача 2/Project_3_Advanced/MenuLibrary/bin/Debug/net8.0/MenuLibrary.deps.json
+/Users/sem0nch1k/Documents/ВШЭ/Первый курс/С#/Проекты/Модуль№3/Проект_3_ВтораяСдача 2/Project_3_Advanced/MenuLibrary/bin/Debug/net8.0/MenuLibrary.dll
+/Users/sem0nch1k/Documents/ВШЭ/Первый курс/С#/Проекты/Модуль№3/Проект_3_ВтораяСдача 2/Project_3_Advanced/MenuLibrary/bin/Debug/net8.0/MenuLibrary.pdb
+/Users/sem0nch1k/Documents/ВШЭ/Первый курс/С#/Проекты/Модуль№3/Проект_3_ВтораяСдача 2/Project_3_Advanced/MenuLibrary/bin/Debug/net8.0/JsonObject.dll
+/Users/sem0nch1k/Documents/ВШЭ/Первый курс/С#/Проекты/Модуль№3/Проект_3_ВтораяСдача 2/Project_3_Advanced/MenuLibrary/bin/Debug/net8.0/Parser.dll
+/Users/sem0nch1k/Documents/ВШЭ/Первый курс/С#/Проекты/Модуль№3/Проект_3_ВтораяСдача 2/Project_3_Advanced/MenuLibrary/bin/Debug/net8.0/StateMachine.dll
+/Users/sem0nch1k/Documents/ВШЭ/Первый курс/С#/Проекты/Модуль№3/Проект_3_ВтораяСдача 2/Project_3_Advanced/MenuLibrary/bin/Debug/net8.0/JsonObject.pdb
+/Users/sem0nch1k/Documents/ВШЭ/Первый курс/С#/Проекты/Модуль№3/Проект_3_ВтораяСдача 2/Project_3_Advanced/MenuLibrary/bin/Debug/net8.0/Parser.pdb
+/Users/sem0nch1k/Documents/ВШЭ/Первый курс/С#/Проекты/Модуль№3/Проект_3_ВтораяСдача 2/Project_3_Advanced/MenuLibrary/bin/Debug/net8.0/StateMachine.pdb
+/Users/sem0nch1k/Documents/ВШЭ/Первый курс/С#/Проекты/Модуль№3/Проект_3_ВтораяСдача 2/Project_3_Advanced/MenuLibrary/obj/Debug/net8.0/MenuLibrary.csproj.AssemblyReference.cache
+/Users/sem0nch1k/Documents/ВШЭ/Первый курс/С#/Проекты/Модуль№3/Проект_3_ВтораяСдача 2/Project_3_Advanced/MenuLibrary/obj/Debug/net8.0/MenuLibrary.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sem0nch1k/Documents/ВШЭ/Первый курс/С#/Проекты/Модуль№3/Проект_3_ВтораяСдача 2/Project_3_Advanced/MenuLibrary/obj/Debug/net8.0/MenuLibrary.AssemblyInfoInputs.cache
+/Users/sem0nch1k/Documents/ВШЭ/Первый курс/С#/Проекты/Модуль№3/Проект_3_ВтораяСдача 2/Project_3_Advanced/MenuLibrary/obj/Debug/net8.0/MenuLibrary.AssemblyInfo.cs
+/Users/sem0nch1k/Documents/ВШЭ/Первый курс/С#/Проекты/Модуль№3/Проект_3_ВтораяСдача 2/Project_3_Advanced/MenuLibrary/obj/Debug/net8.0/MenuLibrary.csproj.CoreCompileInputs.cache
+/Users/sem0nch1k/Documents/ВШЭ/Первый курс/С#/Проекты/Модуль№3/Проект_3_ВтораяСдача 2/Project_3_Advanced/MenuLibrary/obj/Debug/net8.0/MenuLibr.7E56DCD1.Up2Date
+/Users/sem0nch1k/Documents/ВШЭ/Первый курс/С#/Проекты/Модуль№3/Проект_3_ВтораяСдача 2/Project_3_Advanced/MenuLibrary/obj/Debug/net8.0/MenuLibrary.dll
+/Users/sem0nch1k/Documents/ВШЭ/Первый курс/С#/Проекты/Модуль№3/Проект_3_ВтораяСдача 2/Project_3_Advanced/MenuLibrary/obj/Debug/net8.0/refint/MenuLibrary.dll
+/Users/sem0nch1k/Documents/ВШЭ/Первый курс/С#/Проекты/Модуль№3/Проект_3_ВтораяСдача 2/Project_3_Advanced/MenuLibrary/obj/Debug/net8.0/MenuLibrary.pdb
+/Users/sem0nch1k/Documents/ВШЭ/Первый курс/С#/Проекты/Модуль№3/Проект_3_ВтораяСдача 2/Project_3_Advanced/MenuLibrary/obj/Debug/net8.0/ref/MenuLibrary.dll

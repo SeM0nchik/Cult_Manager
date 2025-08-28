@@ -1,0 +1,68 @@
+D:/University/C# codes/Проекты/Модуль№3/Project_3_/Parser/bin/Debug/net8.0/Parser.deps.json
+D:/University/C# codes/Проекты/Модуль№3/Project_3_/Parser/bin/Debug/net8.0/Parser.dll
+D:/University/C# codes/Проекты/Модуль№3/Project_3_/Parser/bin/Debug/net8.0/Parser.pdb
+D:/University/C# codes/Проекты/Модуль№3/Project_3_/Parser/bin/Debug/net8.0/JsonObject.dll
+D:/University/C# codes/Проекты/Модуль№3/Project_3_/Parser/bin/Debug/net8.0/StateMachine.dll
+D:/University/C# codes/Проекты/Модуль№3/Project_3_/Parser/bin/Debug/net8.0/JsonObject.pdb
+D:/University/C# codes/Проекты/Модуль№3/Project_3_/Parser/bin/Debug/net8.0/StateMachine.pdb
+D:/University/C# codes/Проекты/Модуль№3/Project_3_/Parser/obj/Debug/net8.0/Parser.csproj.AssemblyReference.cache
+D:/University/C# codes/Проекты/Модуль№3/Project_3_/Parser/obj/Debug/net8.0/Parser.GeneratedMSBuildEditorConfig.editorconfig
+D:/University/C# codes/Проекты/Модуль№3/Project_3_/Parser/obj/Debug/net8.0/Parser.AssemblyInfoInputs.cache
+D:/University/C# codes/Проекты/Модуль№3/Project_3_/Parser/obj/Debug/net8.0/Parser.AssemblyInfo.cs
+D:/University/C# codes/Проекты/Модуль№3/Project_3_/Parser/obj/Debug/net8.0/Parser.csproj.CoreCompileInputs.cache
+D:/University/C# codes/Проекты/Модуль№3/Project_3_/Parser/obj/Debug/net8.0/Parser.csproj.Up2Date
+D:/University/C# codes/Проекты/Модуль№3/Project_3_/Parser/obj/Debug/net8.0/Parser.dll
+D:/University/C# codes/Проекты/Модуль№3/Project_3_/Parser/obj/Debug/net8.0/refint/Parser.dll
+D:/University/C# codes/Проекты/Модуль№3/Project_3_/Parser/obj/Debug/net8.0/Parser.pdb
+D:/University/C# codes/Проекты/Модуль№3/Project_3_/Parser/obj/Debug/net8.0/ref/Parser.dll
+D:/University/C# codes/Проекты/Модуль№3/Project_3_Advanced/Parser/bin/Debug/net8.0/Parser.deps.json
+D:/University/C# codes/Проекты/Модуль№3/Project_3_Advanced/Parser/bin/Debug/net8.0/Parser.dll
+D:/University/C# codes/Проекты/Модуль№3/Project_3_Advanced/Parser/bin/Debug/net8.0/Parser.pdb
+D:/University/C# codes/Проекты/Модуль№3/Project_3_Advanced/Parser/bin/Debug/net8.0/JsonObject.dll
+D:/University/C# codes/Проекты/Модуль№3/Project_3_Advanced/Parser/bin/Debug/net8.0/StateMachine.dll
+D:/University/C# codes/Проекты/Модуль№3/Project_3_Advanced/Parser/bin/Debug/net8.0/JsonObject.pdb
+D:/University/C# codes/Проекты/Модуль№3/Project_3_Advanced/Parser/bin/Debug/net8.0/StateMachine.pdb
+D:/University/C# codes/Проекты/Модуль№3/Project_3_Advanced/Parser/obj/Debug/net8.0/Parser.csproj.AssemblyReference.cache
+D:/University/C# codes/Проекты/Модуль№3/Project_3_Advanced/Parser/obj/Debug/net8.0/Parser.GeneratedMSBuildEditorConfig.editorconfig
+D:/University/C# codes/Проекты/Модуль№3/Project_3_Advanced/Parser/obj/Debug/net8.0/Parser.AssemblyInfoInputs.cache
+D:/University/C# codes/Проекты/Модуль№3/Project_3_Advanced/Parser/obj/Debug/net8.0/Parser.AssemblyInfo.cs
+D:/University/C# codes/Проекты/Модуль№3/Project_3_Advanced/Parser/obj/Debug/net8.0/Parser.csproj.CoreCompileInputs.cache
+D:/University/C# codes/Проекты/Модуль№3/Project_3_Advanced/Parser/obj/Debug/net8.0/Parser.csproj.Up2Date
+D:/University/C# codes/Проекты/Модуль№3/Project_3_Advanced/Parser/obj/Debug/net8.0/Parser.dll
+D:/University/C# codes/Проекты/Модуль№3/Project_3_Advanced/Parser/obj/Debug/net8.0/refint/Parser.dll
+D:/University/C# codes/Проекты/Модуль№3/Project_3_Advanced/Parser/obj/Debug/net8.0/Parser.pdb
+D:/University/C# codes/Проекты/Модуль№3/Project_3_Advanced/Parser/obj/Debug/net8.0/ref/Parser.dll
+D:/University/C# codes/Проекты/Модуль№3/Проект_3_ВтораяСдача/Project_3_Advanced/Parser/bin/Debug/net8.0/Parser.deps.json
+D:/University/C# codes/Проекты/Модуль№3/Проект_3_ВтораяСдача/Project_3_Advanced/Parser/bin/Debug/net8.0/Parser.dll
+D:/University/C# codes/Проекты/Модуль№3/Проект_3_ВтораяСдача/Project_3_Advanced/Parser/bin/Debug/net8.0/Parser.pdb
+D:/University/C# codes/Проекты/Модуль№3/Проект_3_ВтораяСдача/Project_3_Advanced/Parser/bin/Debug/net8.0/JsonObject.dll
+D:/University/C# codes/Проекты/Модуль№3/Проект_3_ВтораяСдача/Project_3_Advanced/Parser/bin/Debug/net8.0/StateMachine.dll
+D:/University/C# codes/Проекты/Модуль№3/Проект_3_ВтораяСдача/Project_3_Advanced/Parser/bin/Debug/net8.0/JsonObject.pdb
+D:/University/C# codes/Проекты/Модуль№3/Проект_3_ВтораяСдача/Project_3_Advanced/Parser/bin/Debug/net8.0/StateMachine.pdb
+D:/University/C# codes/Проекты/Модуль№3/Проект_3_ВтораяСдача/Project_3_Advanced/Parser/obj/Debug/net8.0/Parser.csproj.AssemblyReference.cache
+D:/University/C# codes/Проекты/Модуль№3/Проект_3_ВтораяСдача/Project_3_Advanced/Parser/obj/Debug/net8.0/Parser.GeneratedMSBuildEditorConfig.editorconfig
+D:/University/C# codes/Проекты/Модуль№3/Проект_3_ВтораяСдача/Project_3_Advanced/Parser/obj/Debug/net8.0/Parser.AssemblyInfoInputs.cache
+D:/University/C# codes/Проекты/Модуль№3/Проект_3_ВтораяСдача/Project_3_Advanced/Parser/obj/Debug/net8.0/Parser.AssemblyInfo.cs
+D:/University/C# codes/Проекты/Модуль№3/Проект_3_ВтораяСдача/Project_3_Advanced/Parser/obj/Debug/net8.0/Parser.csproj.CoreCompileInputs.cache
+D:/University/C# codes/Проекты/Модуль№3/Проект_3_ВтораяСдача/Project_3_Advanced/Parser/obj/Debug/net8.0/Parser.csproj.Up2Date
+D:/University/C# codes/Проекты/Модуль№3/Проект_3_ВтораяСдача/Project_3_Advanced/Parser/obj/Debug/net8.0/Parser.dll
+D:/University/C# codes/Проекты/Модуль№3/Проект_3_ВтораяСдача/Project_3_Advanced/Parser/obj/Debug/net8.0/refint/Parser.dll
+D:/University/C# codes/Проекты/Модуль№3/Проект_3_ВтораяСдача/Project_3_Advanced/Parser/obj/Debug/net8.0/Parser.pdb
+D:/University/C# codes/Проекты/Модуль№3/Проект_3_ВтораяСдача/Project_3_Advanced/Parser/obj/Debug/net8.0/ref/Parser.dll
+/Users/sem0nch1k/Documents/ВШЭ/Первый курс/С#/Проекты/Модуль№3/Проект_3_ВтораяСдача 2/Project_3_Advanced/Parser/bin/Debug/net8.0/Parser.deps.json
+/Users/sem0nch1k/Documents/ВШЭ/Первый курс/С#/Проекты/Модуль№3/Проект_3_ВтораяСдача 2/Project_3_Advanced/Parser/bin/Debug/net8.0/Parser.dll
+/Users/sem0nch1k/Documents/ВШЭ/Первый курс/С#/Проекты/Модуль№3/Проект_3_ВтораяСдача 2/Project_3_Advanced/Parser/bin/Debug/net8.0/Parser.pdb
+/Users/sem0nch1k/Documents/ВШЭ/Первый курс/С#/Проекты/Модуль№3/Проект_3_ВтораяСдача 2/Project_3_Advanced/Parser/bin/Debug/net8.0/JsonObject.dll
+/Users/sem0nch1k/Documents/ВШЭ/Первый курс/С#/Проекты/Модуль№3/Проект_3_ВтораяСдача 2/Project_3_Advanced/Parser/bin/Debug/net8.0/StateMachine.dll
+/Users/sem0nch1k/Documents/ВШЭ/Первый курс/С#/Проекты/Модуль№3/Проект_3_ВтораяСдача 2/Project_3_Advanced/Parser/bin/Debug/net8.0/JsonObject.pdb
+/Users/sem0nch1k/Documents/ВШЭ/Первый курс/С#/Проекты/Модуль№3/Проект_3_ВтораяСдача 2/Project_3_Advanced/Parser/bin/Debug/net8.0/StateMachine.pdb
+/Users/sem0nch1k/Documents/ВШЭ/Первый курс/С#/Проекты/Модуль№3/Проект_3_ВтораяСдача 2/Project_3_Advanced/Parser/obj/Debug/net8.0/Parser.csproj.AssemblyReference.cache
+/Users/sem0nch1k/Documents/ВШЭ/Первый курс/С#/Проекты/Модуль№3/Проект_3_ВтораяСдача 2/Project_3_Advanced/Parser/obj/Debug/net8.0/Parser.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sem0nch1k/Documents/ВШЭ/Первый курс/С#/Проекты/Модуль№3/Проект_3_ВтораяСдача 2/Project_3_Advanced/Parser/obj/Debug/net8.0/Parser.AssemblyInfoInputs.cache
+/Users/sem0nch1k/Documents/ВШЭ/Первый курс/С#/Проекты/Модуль№3/Проект_3_ВтораяСдача 2/Project_3_Advanced/Parser/obj/Debug/net8.0/Parser.AssemblyInfo.cs
+/Users/sem0nch1k/Documents/ВШЭ/Первый курс/С#/Проекты/Модуль№3/Проект_3_ВтораяСдача 2/Project_3_Advanced/Parser/obj/Debug/net8.0/Parser.csproj.CoreCompileInputs.cache
+/Users/sem0nch1k/Documents/ВШЭ/Первый курс/С#/Проекты/Модуль№3/Проект_3_ВтораяСдача 2/Project_3_Advanced/Parser/obj/Debug/net8.0/Parser.csproj.Up2Date
+/Users/sem0nch1k/Documents/ВШЭ/Первый курс/С#/Проекты/Модуль№3/Проект_3_ВтораяСдача 2/Project_3_Advanced/Parser/obj/Debug/net8.0/Parser.dll
+/Users/sem0nch1k/Documents/ВШЭ/Первый курс/С#/Проекты/Модуль№3/Проект_3_ВтораяСдача 2/Project_3_Advanced/Parser/obj/Debug/net8.0/refint/Parser.dll
+/Users/sem0nch1k/Documents/ВШЭ/Первый курс/С#/Проекты/Модуль№3/Проект_3_ВтораяСдача 2/Project_3_Advanced/Parser/obj/Debug/net8.0/Parser.pdb
+/Users/sem0nch1k/Documents/ВШЭ/Первый курс/С#/Проекты/Модуль№3/Проект_3_ВтораяСдача 2/Project_3_Advanced/Parser/obj/Debug/net8.0/ref/Parser.dll

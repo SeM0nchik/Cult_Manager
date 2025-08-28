@@ -1,0 +1,48 @@
+D:/University/C# codes/Проекты/Модуль№3/Project_3_/JsonObject/bin/Debug/net8.0/JsonObject.deps.json
+D:/University/C# codes/Проекты/Модуль№3/Project_3_/JsonObject/bin/Debug/net8.0/JsonObject.dll
+D:/University/C# codes/Проекты/Модуль№3/Project_3_/JsonObject/bin/Debug/net8.0/JsonObject.pdb
+D:/University/C# codes/Проекты/Модуль№3/Project_3_/JsonObject/obj/Debug/net8.0/JsonObject.GeneratedMSBuildEditorConfig.editorconfig
+D:/University/C# codes/Проекты/Модуль№3/Project_3_/JsonObject/obj/Debug/net8.0/JsonObject.AssemblyInfoInputs.cache
+D:/University/C# codes/Проекты/Модуль№3/Project_3_/JsonObject/obj/Debug/net8.0/JsonObject.AssemblyInfo.cs
+D:/University/C# codes/Проекты/Модуль№3/Project_3_/JsonObject/obj/Debug/net8.0/JsonObject.csproj.CoreCompileInputs.cache
+D:/University/C# codes/Проекты/Модуль№3/Project_3_/JsonObject/obj/Debug/net8.0/JsonObject.dll
+D:/University/C# codes/Проекты/Модуль№3/Project_3_/JsonObject/obj/Debug/net8.0/refint/JsonObject.dll
+D:/University/C# codes/Проекты/Модуль№3/Project_3_/JsonObject/obj/Debug/net8.0/JsonObject.pdb
+D:/University/C# codes/Проекты/Модуль№3/Project_3_/JsonObject/obj/Debug/net8.0/ref/JsonObject.dll
+D:/University/C# codes/Проекты/Модуль№3/Project_3_/JsonObject/obj/Debug/net8.0/JsonObject.csproj.AssemblyReference.cache
+D:/University/C# codes/Проекты/Модуль№3/Project_3_Advanced/JsonObject/bin/Debug/net8.0/JsonObject.deps.json
+D:/University/C# codes/Проекты/Модуль№3/Project_3_Advanced/JsonObject/bin/Debug/net8.0/JsonObject.dll
+D:/University/C# codes/Проекты/Модуль№3/Project_3_Advanced/JsonObject/bin/Debug/net8.0/JsonObject.pdb
+D:/University/C# codes/Проекты/Модуль№3/Project_3_Advanced/JsonObject/obj/Debug/net8.0/JsonObject.csproj.AssemblyReference.cache
+D:/University/C# codes/Проекты/Модуль№3/Project_3_Advanced/JsonObject/obj/Debug/net8.0/JsonObject.GeneratedMSBuildEditorConfig.editorconfig
+D:/University/C# codes/Проекты/Модуль№3/Project_3_Advanced/JsonObject/obj/Debug/net8.0/JsonObject.AssemblyInfoInputs.cache
+D:/University/C# codes/Проекты/Модуль№3/Project_3_Advanced/JsonObject/obj/Debug/net8.0/JsonObject.AssemblyInfo.cs
+D:/University/C# codes/Проекты/Модуль№3/Project_3_Advanced/JsonObject/obj/Debug/net8.0/JsonObject.csproj.CoreCompileInputs.cache
+D:/University/C# codes/Проекты/Модуль№3/Project_3_Advanced/JsonObject/obj/Debug/net8.0/JsonObject.dll
+D:/University/C# codes/Проекты/Модуль№3/Project_3_Advanced/JsonObject/obj/Debug/net8.0/refint/JsonObject.dll
+D:/University/C# codes/Проекты/Модуль№3/Project_3_Advanced/JsonObject/obj/Debug/net8.0/JsonObject.pdb
+D:/University/C# codes/Проекты/Модуль№3/Project_3_Advanced/JsonObject/obj/Debug/net8.0/ref/JsonObject.dll
+D:/University/C# codes/Проекты/Модуль№3/Проект_3_ВтораяСдача/Project_3_Advanced/JsonObject/bin/Debug/net8.0/JsonObject.deps.json
+D:/University/C# codes/Проекты/Модуль№3/Проект_3_ВтораяСдача/Project_3_Advanced/JsonObject/bin/Debug/net8.0/JsonObject.dll
+D:/University/C# codes/Проекты/Модуль№3/Проект_3_ВтораяСдача/Project_3_Advanced/JsonObject/bin/Debug/net8.0/JsonObject.pdb
+D:/University/C# codes/Проекты/Модуль№3/Проект_3_ВтораяСдача/Project_3_Advanced/JsonObject/obj/Debug/net8.0/JsonObject.csproj.AssemblyReference.cache
+D:/University/C# codes/Проекты/Модуль№3/Проект_3_ВтораяСдача/Project_3_Advanced/JsonObject/obj/Debug/net8.0/JsonObject.GeneratedMSBuildEditorConfig.editorconfig
+D:/University/C# codes/Проекты/Модуль№3/Проект_3_ВтораяСдача/Project_3_Advanced/JsonObject/obj/Debug/net8.0/JsonObject.AssemblyInfoInputs.cache
+D:/University/C# codes/Проекты/Модуль№3/Проект_3_ВтораяСдача/Project_3_Advanced/JsonObject/obj/Debug/net8.0/JsonObject.AssemblyInfo.cs
+D:/University/C# codes/Проекты/Модуль№3/Проект_3_ВтораяСдача/Project_3_Advanced/JsonObject/obj/Debug/net8.0/JsonObject.csproj.CoreCompileInputs.cache
+D:/University/C# codes/Проекты/Модуль№3/Проект_3_ВтораяСдача/Project_3_Advanced/JsonObject/obj/Debug/net8.0/JsonObject.dll
+D:/University/C# codes/Проекты/Модуль№3/Проект_3_ВтораяСдача/Project_3_Advanced/JsonObject/obj/Debug/net8.0/refint/JsonObject.dll
+D:/University/C# codes/Проекты/Модуль№3/Проект_3_ВтораяСдача/Project_3_Advanced/JsonObject/obj/Debug/net8.0/JsonObject.pdb
+D:/University/C# codes/Проекты/Модуль№3/Проект_3_ВтораяСдача/Project_3_Advanced/JsonObject/obj/Debug/net8.0/ref/JsonObject.dll
+/Users/sem0nch1k/Documents/ВШЭ/Первый курс/С#/Проекты/Модуль№3/Проект_3_ВтораяСдача 2/Project_3_Advanced/JsonObject/bin/Debug/net8.0/JsonObject.deps.json
+/Users/sem0nch1k/Documents/ВШЭ/Первый курс/С#/Проекты/Модуль№3/Проект_3_ВтораяСдача 2/Project_3_Advanced/JsonObject/bin/Debug/net8.0/JsonObject.dll
+/Users/sem0nch1k/Documents/ВШЭ/Первый курс/С#/Проекты/Модуль№3/Проект_3_ВтораяСдача 2/Project_3_Advanced/JsonObject/bin/Debug/net8.0/JsonObject.pdb
+/Users/sem0nch1k/Documents/ВШЭ/Первый курс/С#/Проекты/Модуль№3/Проект_3_ВтораяСдача 2/Project_3_Advanced/JsonObject/obj/Debug/net8.0/JsonObject.csproj.AssemblyReference.cache
+/Users/sem0nch1k/Documents/ВШЭ/Первый курс/С#/Проекты/Модуль№3/Проект_3_ВтораяСдача 2/Project_3_Advanced/JsonObject/obj/Debug/net8.0/JsonObject.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sem0nch1k/Documents/ВШЭ/Первый курс/С#/Проекты/Модуль№3/Проект_3_ВтораяСдача 2/Project_3_Advanced/JsonObject/obj/Debug/net8.0/JsonObject.AssemblyInfoInputs.cache
+/Users/sem0nch1k/Documents/ВШЭ/Первый курс/С#/Проекты/Модуль№3/Проект_3_ВтораяСдача 2/Project_3_Advanced/JsonObject/obj/Debug/net8.0/JsonObject.AssemblyInfo.cs
+/Users/sem0nch1k/Documents/ВШЭ/Первый курс/С#/Проекты/Модуль№3/Проект_3_ВтораяСдача 2/Project_3_Advanced/JsonObject/obj/Debug/net8.0/JsonObject.csproj.CoreCompileInputs.cache
+/Users/sem0nch1k/Documents/ВШЭ/Первый курс/С#/Проекты/Модуль№3/Проект_3_ВтораяСдача 2/Project_3_Advanced/JsonObject/obj/Debug/net8.0/JsonObject.dll
+/Users/sem0nch1k/Documents/ВШЭ/Первый курс/С#/Проекты/Модуль№3/Проект_3_ВтораяСдача 2/Project_3_Advanced/JsonObject/obj/Debug/net8.0/refint/JsonObject.dll
+/Users/sem0nch1k/Documents/ВШЭ/Первый курс/С#/Проекты/Модуль№3/Проект_3_ВтораяСдача 2/Project_3_Advanced/JsonObject/obj/Debug/net8.0/JsonObject.pdb
+/Users/sem0nch1k/Documents/ВШЭ/Первый курс/С#/Проекты/Модуль№3/Проект_3_ВтораяСдача 2/Project_3_Advanced/JsonObject/obj/Debug/net8.0/ref/JsonObject.dll

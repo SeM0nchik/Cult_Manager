@@ -1,0 +1,128 @@
+D:/University/C# codes/Проекты/Модуль№3/Project_3_/Project_Main/bin/Debug/net8.0/Project_Main.exe
+D:/University/C# codes/Проекты/Модуль№3/Project_3_/Project_Main/bin/Debug/net8.0/Project_Main.deps.json
+D:/University/C# codes/Проекты/Модуль№3/Project_3_/Project_Main/bin/Debug/net8.0/Project_Main.runtimeconfig.json
+D:/University/C# codes/Проекты/Модуль№3/Project_3_/Project_Main/bin/Debug/net8.0/Project_Main.dll
+D:/University/C# codes/Проекты/Модуль№3/Project_3_/Project_Main/bin/Debug/net8.0/Project_Main.pdb
+D:/University/C# codes/Проекты/Модуль№3/Project_3_/Project_Main/bin/Debug/net8.0/JsonObject.dll
+D:/University/C# codes/Проекты/Модуль№3/Project_3_/Project_Main/bin/Debug/net8.0/MenuLibrary.dll
+D:/University/C# codes/Проекты/Модуль№3/Project_3_/Project_Main/bin/Debug/net8.0/Parser.dll
+D:/University/C# codes/Проекты/Модуль№3/Project_3_/Project_Main/bin/Debug/net8.0/StateMachine.dll
+D:/University/C# codes/Проекты/Модуль№3/Project_3_/Project_Main/bin/Debug/net8.0/MenuLibrary.pdb
+D:/University/C# codes/Проекты/Модуль№3/Project_3_/Project_Main/bin/Debug/net8.0/JsonObject.pdb
+D:/University/C# codes/Проекты/Модуль№3/Project_3_/Project_Main/bin/Debug/net8.0/Parser.pdb
+D:/University/C# codes/Проекты/Модуль№3/Project_3_/Project_Main/bin/Debug/net8.0/StateMachine.pdb
+D:/University/C# codes/Проекты/Модуль№3/Project_3_/Project_Main/obj/Debug/net8.0/Project_Main.csproj.AssemblyReference.cache
+D:/University/C# codes/Проекты/Модуль№3/Project_3_/Project_Main/obj/Debug/net8.0/Project_Main.GeneratedMSBuildEditorConfig.editorconfig
+D:/University/C# codes/Проекты/Модуль№3/Project_3_/Project_Main/obj/Debug/net8.0/Project_Main.AssemblyInfoInputs.cache
+D:/University/C# codes/Проекты/Модуль№3/Project_3_/Project_Main/obj/Debug/net8.0/Project_Main.AssemblyInfo.cs
+D:/University/C# codes/Проекты/Модуль№3/Project_3_/Project_Main/obj/Debug/net8.0/Project_Main.csproj.CoreCompileInputs.cache
+D:/University/C# codes/Проекты/Модуль№3/Project_3_/Project_Main/obj/Debug/net8.0/Project_.40A4DB94.Up2Date
+D:/University/C# codes/Проекты/Модуль№3/Project_3_/Project_Main/obj/Debug/net8.0/Project_Main.dll
+D:/University/C# codes/Проекты/Модуль№3/Project_3_/Project_Main/obj/Debug/net8.0/refint/Project_Main.dll
+D:/University/C# codes/Проекты/Модуль№3/Project_3_/Project_Main/obj/Debug/net8.0/Project_Main.pdb
+D:/University/C# codes/Проекты/Модуль№3/Project_3_/Project_Main/obj/Debug/net8.0/Project_Main.genruntimeconfig.cache
+D:/University/C# codes/Проекты/Модуль№3/Project_3_/Project_Main/obj/Debug/net8.0/ref/Project_Main.dll
+D:/University/C# codes/Проекты/Модуль№3/Project_3_/Project_Main/bin/Debug/net8.0/NStack.dll
+D:/University/C# codes/Проекты/Модуль№3/Project_3_/Project_Main/bin/Debug/net8.0/System.CodeDom.dll
+D:/University/C# codes/Проекты/Модуль№3/Project_3_/Project_Main/bin/Debug/net8.0/System.Management.dll
+D:/University/C# codes/Проекты/Модуль№3/Project_3_/Project_Main/bin/Debug/net8.0/Terminal.Gui.dll
+D:/University/C# codes/Проекты/Модуль№3/Project_3_/Project_Main/bin/Debug/net8.0/fr-FR/Terminal.Gui.resources.dll
+D:/University/C# codes/Проекты/Модуль№3/Project_3_/Project_Main/bin/Debug/net8.0/ja-JP/Terminal.Gui.resources.dll
+D:/University/C# codes/Проекты/Модуль№3/Project_3_/Project_Main/bin/Debug/net8.0/pt-PT/Terminal.Gui.resources.dll
+D:/University/C# codes/Проекты/Модуль№3/Project_3_/Project_Main/bin/Debug/net8.0/runtimes/win/lib/net8.0/System.Management.dll
+D:/University/C# codes/Проекты/Модуль№3/Project_3_Advanced/Project_Main/bin/Debug/net8.0/Project_Main.exe
+D:/University/C# codes/Проекты/Модуль№3/Project_3_Advanced/Project_Main/bin/Debug/net8.0/Project_Main.deps.json
+D:/University/C# codes/Проекты/Модуль№3/Project_3_Advanced/Project_Main/bin/Debug/net8.0/Project_Main.runtimeconfig.json
+D:/University/C# codes/Проекты/Модуль№3/Project_3_Advanced/Project_Main/bin/Debug/net8.0/Project_Main.dll
+D:/University/C# codes/Проекты/Модуль№3/Project_3_Advanced/Project_Main/bin/Debug/net8.0/Project_Main.pdb
+D:/University/C# codes/Проекты/Модуль№3/Project_3_Advanced/Project_Main/bin/Debug/net8.0/NStack.dll
+D:/University/C# codes/Проекты/Модуль№3/Project_3_Advanced/Project_Main/bin/Debug/net8.0/System.CodeDom.dll
+D:/University/C# codes/Проекты/Модуль№3/Project_3_Advanced/Project_Main/bin/Debug/net8.0/System.Management.dll
+D:/University/C# codes/Проекты/Модуль№3/Project_3_Advanced/Project_Main/bin/Debug/net8.0/Terminal.Gui.dll
+D:/University/C# codes/Проекты/Модуль№3/Project_3_Advanced/Project_Main/bin/Debug/net8.0/fr-FR/Terminal.Gui.resources.dll
+D:/University/C# codes/Проекты/Модуль№3/Project_3_Advanced/Project_Main/bin/Debug/net8.0/ja-JP/Terminal.Gui.resources.dll
+D:/University/C# codes/Проекты/Модуль№3/Project_3_Advanced/Project_Main/bin/Debug/net8.0/pt-PT/Terminal.Gui.resources.dll
+D:/University/C# codes/Проекты/Модуль№3/Project_3_Advanced/Project_Main/bin/Debug/net8.0/runtimes/win/lib/net8.0/System.Management.dll
+D:/University/C# codes/Проекты/Модуль№3/Project_3_Advanced/Project_Main/bin/Debug/net8.0/JsonObject.dll
+D:/University/C# codes/Проекты/Модуль№3/Project_3_Advanced/Project_Main/bin/Debug/net8.0/MenuLibrary.dll
+D:/University/C# codes/Проекты/Модуль№3/Project_3_Advanced/Project_Main/bin/Debug/net8.0/Parser.dll
+D:/University/C# codes/Проекты/Модуль№3/Project_3_Advanced/Project_Main/bin/Debug/net8.0/StateMachine.dll
+D:/University/C# codes/Проекты/Модуль№3/Project_3_Advanced/Project_Main/bin/Debug/net8.0/MenuLibrary.pdb
+D:/University/C# codes/Проекты/Модуль№3/Project_3_Advanced/Project_Main/bin/Debug/net8.0/JsonObject.pdb
+D:/University/C# codes/Проекты/Модуль№3/Project_3_Advanced/Project_Main/bin/Debug/net8.0/Parser.pdb
+D:/University/C# codes/Проекты/Модуль№3/Project_3_Advanced/Project_Main/bin/Debug/net8.0/StateMachine.pdb
+D:/University/C# codes/Проекты/Модуль№3/Project_3_Advanced/Project_Main/obj/Debug/net8.0/Project_Main.csproj.AssemblyReference.cache
+D:/University/C# codes/Проекты/Модуль№3/Project_3_Advanced/Project_Main/obj/Debug/net8.0/Project_Main.GeneratedMSBuildEditorConfig.editorconfig
+D:/University/C# codes/Проекты/Модуль№3/Project_3_Advanced/Project_Main/obj/Debug/net8.0/Project_Main.AssemblyInfoInputs.cache
+D:/University/C# codes/Проекты/Модуль№3/Project_3_Advanced/Project_Main/obj/Debug/net8.0/Project_Main.AssemblyInfo.cs
+D:/University/C# codes/Проекты/Модуль№3/Project_3_Advanced/Project_Main/obj/Debug/net8.0/Project_Main.csproj.CoreCompileInputs.cache
+D:/University/C# codes/Проекты/Модуль№3/Project_3_Advanced/Project_Main/obj/Debug/net8.0/Project_.40A4DB94.Up2Date
+D:/University/C# codes/Проекты/Модуль№3/Project_3_Advanced/Project_Main/obj/Debug/net8.0/Project_Main.dll
+D:/University/C# codes/Проекты/Модуль№3/Project_3_Advanced/Project_Main/obj/Debug/net8.0/refint/Project_Main.dll
+D:/University/C# codes/Проекты/Модуль№3/Project_3_Advanced/Project_Main/obj/Debug/net8.0/Project_Main.pdb
+D:/University/C# codes/Проекты/Модуль№3/Project_3_Advanced/Project_Main/obj/Debug/net8.0/Project_Main.genruntimeconfig.cache
+D:/University/C# codes/Проекты/Модуль№3/Project_3_Advanced/Project_Main/obj/Debug/net8.0/ref/Project_Main.dll
+D:/University/C# codes/Проекты/Модуль№3/Проект_3_ВтораяСдача/Project_3_Advanced/Project_Main/bin/Debug/net8.0/Project_Main.exe
+D:/University/C# codes/Проекты/Модуль№3/Проект_3_ВтораяСдача/Project_3_Advanced/Project_Main/bin/Debug/net8.0/Project_Main.deps.json
+D:/University/C# codes/Проекты/Модуль№3/Проект_3_ВтораяСдача/Project_3_Advanced/Project_Main/bin/Debug/net8.0/Project_Main.runtimeconfig.json
+D:/University/C# codes/Проекты/Модуль№3/Проект_3_ВтораяСдача/Project_3_Advanced/Project_Main/bin/Debug/net8.0/Project_Main.dll
+D:/University/C# codes/Проекты/Модуль№3/Проект_3_ВтораяСдача/Project_3_Advanced/Project_Main/bin/Debug/net8.0/Project_Main.pdb
+D:/University/C# codes/Проекты/Модуль№3/Проект_3_ВтораяСдача/Project_3_Advanced/Project_Main/bin/Debug/net8.0/NStack.dll
+D:/University/C# codes/Проекты/Модуль№3/Проект_3_ВтораяСдача/Project_3_Advanced/Project_Main/bin/Debug/net8.0/System.CodeDom.dll
+D:/University/C# codes/Проекты/Модуль№3/Проект_3_ВтораяСдача/Project_3_Advanced/Project_Main/bin/Debug/net8.0/System.Management.dll
+D:/University/C# codes/Проекты/Модуль№3/Проект_3_ВтораяСдача/Project_3_Advanced/Project_Main/bin/Debug/net8.0/Terminal.Gui.dll
+D:/University/C# codes/Проекты/Модуль№3/Проект_3_ВтораяСдача/Project_3_Advanced/Project_Main/bin/Debug/net8.0/fr-FR/Terminal.Gui.resources.dll
+D:/University/C# codes/Проекты/Модуль№3/Проект_3_ВтораяСдача/Project_3_Advanced/Project_Main/bin/Debug/net8.0/ja-JP/Terminal.Gui.resources.dll
+D:/University/C# codes/Проекты/Модуль№3/Проект_3_ВтораяСдача/Project_3_Advanced/Project_Main/bin/Debug/net8.0/pt-PT/Terminal.Gui.resources.dll
+D:/University/C# codes/Проекты/Модуль№3/Проект_3_ВтораяСдача/Project_3_Advanced/Project_Main/bin/Debug/net8.0/runtimes/win/lib/net8.0/System.Management.dll
+D:/University/C# codes/Проекты/Модуль№3/Проект_3_ВтораяСдача/Project_3_Advanced/Project_Main/bin/Debug/net8.0/JsonObject.dll
+D:/University/C# codes/Проекты/Модуль№3/Проект_3_ВтораяСдача/Project_3_Advanced/Project_Main/bin/Debug/net8.0/MenuLibrary.dll
+D:/University/C# codes/Проекты/Модуль№3/Проект_3_ВтораяСдача/Project_3_Advanced/Project_Main/bin/Debug/net8.0/Parser.dll
+D:/University/C# codes/Проекты/Модуль№3/Проект_3_ВтораяСдача/Project_3_Advanced/Project_Main/bin/Debug/net8.0/StateMachine.dll
+D:/University/C# codes/Проекты/Модуль№3/Проект_3_ВтораяСдача/Project_3_Advanced/Project_Main/bin/Debug/net8.0/MenuLibrary.pdb
+D:/University/C# codes/Проекты/Модуль№3/Проект_3_ВтораяСдача/Project_3_Advanced/Project_Main/bin/Debug/net8.0/JsonObject.pdb
+D:/University/C# codes/Проекты/Модуль№3/Проект_3_ВтораяСдача/Project_3_Advanced/Project_Main/bin/Debug/net8.0/Parser.pdb
+D:/University/C# codes/Проекты/Модуль№3/Проект_3_ВтораяСдача/Project_3_Advanced/Project_Main/bin/Debug/net8.0/StateMachine.pdb
+D:/University/C# codes/Проекты/Модуль№3/Проект_3_ВтораяСдача/Project_3_Advanced/Project_Main/obj/Debug/net8.0/Project_Main.csproj.AssemblyReference.cache
+D:/University/C# codes/Проекты/Модуль№3/Проект_3_ВтораяСдача/Project_3_Advanced/Project_Main/obj/Debug/net8.0/Project_Main.GeneratedMSBuildEditorConfig.editorconfig
+D:/University/C# codes/Проекты/Модуль№3/Проект_3_ВтораяСдача/Project_3_Advanced/Project_Main/obj/Debug/net8.0/Project_Main.AssemblyInfoInputs.cache
+D:/University/C# codes/Проекты/Модуль№3/Проект_3_ВтораяСдача/Project_3_Advanced/Project_Main/obj/Debug/net8.0/Project_Main.AssemblyInfo.cs
+D:/University/C# codes/Проекты/Модуль№3/Проект_3_ВтораяСдача/Project_3_Advanced/Project_Main/obj/Debug/net8.0/Project_Main.csproj.CoreCompileInputs.cache
+D:/University/C# codes/Проекты/Модуль№3/Проект_3_ВтораяСдача/Project_3_Advanced/Project_Main/obj/Debug/net8.0/Project_.40A4DB94.Up2Date
+D:/University/C# codes/Проекты/Модуль№3/Проект_3_ВтораяСдача/Project_3_Advanced/Project_Main/obj/Debug/net8.0/Project_Main.dll
+D:/University/C# codes/Проекты/Модуль№3/Проект_3_ВтораяСдача/Project_3_Advanced/Project_Main/obj/Debug/net8.0/refint/Project_Main.dll
+D:/University/C# codes/Проекты/Модуль№3/Проект_3_ВтораяСдача/Project_3_Advanced/Project_Main/obj/Debug/net8.0/Project_Main.pdb
+D:/University/C# codes/Проекты/Модуль№3/Проект_3_ВтораяСдача/Project_3_Advanced/Project_Main/obj/Debug/net8.0/Project_Main.genruntimeconfig.cache
+D:/University/C# codes/Проекты/Модуль№3/Проект_3_ВтораяСдача/Project_3_Advanced/Project_Main/obj/Debug/net8.0/ref/Project_Main.dll
+/Users/sem0nch1k/Documents/ВШЭ/Первый курс/С#/Проекты/Модуль№3/Проект_3_ВтораяСдача 2/Project_3_Advanced/Project_Main/bin/Debug/net8.0/Project_Main
+/Users/sem0nch1k/Documents/ВШЭ/Первый курс/С#/Проекты/Модуль№3/Проект_3_ВтораяСдача 2/Project_3_Advanced/Project_Main/bin/Debug/net8.0/Project_Main.deps.json
+/Users/sem0nch1k/Documents/ВШЭ/Первый курс/С#/Проекты/Модуль№3/Проект_3_ВтораяСдача 2/Project_3_Advanced/Project_Main/bin/Debug/net8.0/Project_Main.runtimeconfig.json
+/Users/sem0nch1k/Documents/ВШЭ/Первый курс/С#/Проекты/Модуль№3/Проект_3_ВтораяСдача 2/Project_3_Advanced/Project_Main/bin/Debug/net8.0/Project_Main.dll
+/Users/sem0nch1k/Documents/ВШЭ/Первый курс/С#/Проекты/Модуль№3/Проект_3_ВтораяСдача 2/Project_3_Advanced/Project_Main/bin/Debug/net8.0/Project_Main.pdb
+/Users/sem0nch1k/Documents/ВШЭ/Первый курс/С#/Проекты/Модуль№3/Проект_3_ВтораяСдача 2/Project_3_Advanced/Project_Main/bin/Debug/net8.0/NStack.dll
+/Users/sem0nch1k/Documents/ВШЭ/Первый курс/С#/Проекты/Модуль№3/Проект_3_ВтораяСдача 2/Project_3_Advanced/Project_Main/bin/Debug/net8.0/System.CodeDom.dll
+/Users/sem0nch1k/Documents/ВШЭ/Первый курс/С#/Проекты/Модуль№3/Проект_3_ВтораяСдача 2/Project_3_Advanced/Project_Main/bin/Debug/net8.0/System.Management.dll
+/Users/sem0nch1k/Documents/ВШЭ/Первый курс/С#/Проекты/Модуль№3/Проект_3_ВтораяСдача 2/Project_3_Advanced/Project_Main/bin/Debug/net8.0/Terminal.Gui.dll
+/Users/sem0nch1k/Documents/ВШЭ/Первый курс/С#/Проекты/Модуль№3/Проект_3_ВтораяСдача 2/Project_3_Advanced/Project_Main/bin/Debug/net8.0/fr-FR/Terminal.Gui.resources.dll
+/Users/sem0nch1k/Documents/ВШЭ/Первый курс/С#/Проекты/Модуль№3/Проект_3_ВтораяСдача 2/Project_3_Advanced/Project_Main/bin/Debug/net8.0/ja-JP/Terminal.Gui.resources.dll
+/Users/sem0nch1k/Documents/ВШЭ/Первый курс/С#/Проекты/Модуль№3/Проект_3_ВтораяСдача 2/Project_3_Advanced/Project_Main/bin/Debug/net8.0/pt-PT/Terminal.Gui.resources.dll
+/Users/sem0nch1k/Documents/ВШЭ/Первый курс/С#/Проекты/Модуль№3/Проект_3_ВтораяСдача 2/Project_3_Advanced/Project_Main/bin/Debug/net8.0/runtimes/win/lib/net8.0/System.Management.dll
+/Users/sem0nch1k/Documents/ВШЭ/Первый курс/С#/Проекты/Модуль№3/Проект_3_ВтораяСдача 2/Project_3_Advanced/Project_Main/bin/Debug/net8.0/JsonObject.dll
+/Users/sem0nch1k/Documents/ВШЭ/Первый курс/С#/Проекты/Модуль№3/Проект_3_ВтораяСдача 2/Project_3_Advanced/Project_Main/bin/Debug/net8.0/MenuLibrary.dll
+/Users/sem0nch1k/Documents/ВШЭ/Первый курс/С#/Проекты/Модуль№3/Проект_3_ВтораяСдача 2/Project_3_Advanced/Project_Main/bin/Debug/net8.0/Parser.dll
+/Users/sem0nch1k/Documents/ВШЭ/Первый курс/С#/Проекты/Модуль№3/Проект_3_ВтораяСдача 2/Project_3_Advanced/Project_Main/bin/Debug/net8.0/StateMachine.dll
+/Users/sem0nch1k/Documents/ВШЭ/Первый курс/С#/Проекты/Модуль№3/Проект_3_ВтораяСдача 2/Project_3_Advanced/Project_Main/bin/Debug/net8.0/MenuLibrary.pdb
+/Users/sem0nch1k/Documents/ВШЭ/Первый курс/С#/Проекты/Модуль№3/Проект_3_ВтораяСдача 2/Project_3_Advanced/Project_Main/bin/Debug/net8.0/JsonObject.pdb
+/Users/sem0nch1k/Documents/ВШЭ/Первый курс/С#/Проекты/Модуль№3/Проект_3_ВтораяСдача 2/Project_3_Advanced/Project_Main/bin/Debug/net8.0/Parser.pdb
+/Users/sem0nch1k/Documents/ВШЭ/Первый курс/С#/Проекты/Модуль№3/Проект_3_ВтораяСдача 2/Project_3_Advanced/Project_Main/bin/Debug/net8.0/StateMachine.pdb
+/Users/sem0nch1k/Documents/ВШЭ/Первый курс/С#/Проекты/Модуль№3/Проект_3_ВтораяСдача 2/Project_3_Advanced/Project_Main/obj/Debug/net8.0/Project_Main.csproj.AssemblyReference.cache
+/Users/sem0nch1k/Documents/ВШЭ/Первый курс/С#/Проекты/Модуль№3/Проект_3_ВтораяСдача 2/Project_3_Advanced/Project_Main/obj/Debug/net8.0/Project_Main.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sem0nch1k/Documents/ВШЭ/Первый курс/С#/Проекты/Модуль№3/Проект_3_ВтораяСдача 2/Project_3_Advanced/Project_Main/obj/Debug/net8.0/Project_Main.AssemblyInfoInputs.cache
+/Users/sem0nch1k/Documents/ВШЭ/Первый курс/С#/Проекты/Модуль№3/Проект_3_ВтораяСдача 2/Project_3_Advanced/Project_Main/obj/Debug/net8.0/Project_Main.AssemblyInfo.cs
+/Users/sem0nch1k/Documents/ВШЭ/Первый курс/С#/Проекты/Модуль№3/Проект_3_ВтораяСдача 2/Project_3_Advanced/Project_Main/obj/Debug/net8.0/Project_Main.csproj.CoreCompileInputs.cache
+/Users/sem0nch1k/Documents/ВШЭ/Первый курс/С#/Проекты/Модуль№3/Проект_3_ВтораяСдача 2/Project_3_Advanced/Project_Main/obj/Debug/net8.0/Project_.40A4DB94.Up2Date
+/Users/sem0nch1k/Documents/ВШЭ/Первый курс/С#/Проекты/Модуль№3/Проект_3_ВтораяСдача 2/Project_3_Advanced/Project_Main/obj/Debug/net8.0/Project_Main.dll
+/Users/sem0nch1k/Documents/ВШЭ/Первый курс/С#/Проекты/Модуль№3/Проект_3_ВтораяСдача 2/Project_3_Advanced/Project_Main/obj/Debug/net8.0/refint/Project_Main.dll
+/Users/sem0nch1k/Documents/ВШЭ/Первый курс/С#/Проекты/Модуль№3/Проект_3_ВтораяСдача 2/Project_3_Advanced/Project_Main/obj/Debug/net8.0/Project_Main.pdb
+/Users/sem0nch1k/Documents/ВШЭ/Первый курс/С#/Проекты/Модуль№3/Проект_3_ВтораяСдача 2/Project_3_Advanced/Project_Main/obj/Debug/net8.0/Project_Main.genruntimeconfig.cache
+/Users/sem0nch1k/Documents/ВШЭ/Первый курс/С#/Проекты/Модуль№3/Проект_3_ВтораяСдача 2/Project_3_Advanced/Project_Main/obj/Debug/net8.0/ref/Project_Main.dll

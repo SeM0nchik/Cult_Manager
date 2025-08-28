@@ -1,0 +1,48 @@
+D:/University/C# codes/Проекты/Модуль№3/Project_3_/StateMachine/bin/Debug/net8.0/StateMachine.deps.json
+D:/University/C# codes/Проекты/Модуль№3/Project_3_/StateMachine/bin/Debug/net8.0/StateMachine.dll
+D:/University/C# codes/Проекты/Модуль№3/Project_3_/StateMachine/bin/Debug/net8.0/StateMachine.pdb
+D:/University/C# codes/Проекты/Модуль№3/Project_3_/StateMachine/obj/Debug/net8.0/StateMachine.GeneratedMSBuildEditorConfig.editorconfig
+D:/University/C# codes/Проекты/Модуль№3/Project_3_/StateMachine/obj/Debug/net8.0/StateMachine.AssemblyInfoInputs.cache
+D:/University/C# codes/Проекты/Модуль№3/Project_3_/StateMachine/obj/Debug/net8.0/StateMachine.AssemblyInfo.cs
+D:/University/C# codes/Проекты/Модуль№3/Project_3_/StateMachine/obj/Debug/net8.0/StateMachine.csproj.CoreCompileInputs.cache
+D:/University/C# codes/Проекты/Модуль№3/Project_3_/StateMachine/obj/Debug/net8.0/StateMachine.dll
+D:/University/C# codes/Проекты/Модуль№3/Project_3_/StateMachine/obj/Debug/net8.0/refint/StateMachine.dll
+D:/University/C# codes/Проекты/Модуль№3/Project_3_/StateMachine/obj/Debug/net8.0/StateMachine.pdb
+D:/University/C# codes/Проекты/Модуль№3/Project_3_/StateMachine/obj/Debug/net8.0/ref/StateMachine.dll
+D:/University/C# codes/Проекты/Модуль№3/Project_3_/StateMachine/obj/Debug/net8.0/StateMachine.csproj.AssemblyReference.cache
+D:/University/C# codes/Проекты/Модуль№3/Project_3_Advanced/StateMachine/bin/Debug/net8.0/StateMachine.deps.json
+D:/University/C# codes/Проекты/Модуль№3/Project_3_Advanced/StateMachine/bin/Debug/net8.0/StateMachine.dll
+D:/University/C# codes/Проекты/Модуль№3/Project_3_Advanced/StateMachine/bin/Debug/net8.0/StateMachine.pdb
+D:/University/C# codes/Проекты/Модуль№3/Project_3_Advanced/StateMachine/obj/Debug/net8.0/StateMachine.csproj.AssemblyReference.cache
+D:/University/C# codes/Проекты/Модуль№3/Project_3_Advanced/StateMachine/obj/Debug/net8.0/StateMachine.GeneratedMSBuildEditorConfig.editorconfig
+D:/University/C# codes/Проекты/Модуль№3/Project_3_Advanced/StateMachine/obj/Debug/net8.0/StateMachine.AssemblyInfoInputs.cache
+D:/University/C# codes/Проекты/Модуль№3/Project_3_Advanced/StateMachine/obj/Debug/net8.0/StateMachine.AssemblyInfo.cs
+D:/University/C# codes/Проекты/Модуль№3/Project_3_Advanced/StateMachine/obj/Debug/net8.0/StateMachine.csproj.CoreCompileInputs.cache
+D:/University/C# codes/Проекты/Модуль№3/Project_3_Advanced/StateMachine/obj/Debug/net8.0/StateMachine.dll
+D:/University/C# codes/Проекты/Модуль№3/Project_3_Advanced/StateMachine/obj/Debug/net8.0/refint/StateMachine.dll
+D:/University/C# codes/Проекты/Модуль№3/Project_3_Advanced/StateMachine/obj/Debug/net8.0/StateMachine.pdb
+D:/University/C# codes/Проекты/Модуль№3/Project_3_Advanced/StateMachine/obj/Debug/net8.0/ref/StateMachine.dll
+D:/University/C# codes/Проекты/Модуль№3/Проект_3_ВтораяСдача/Project_3_Advanced/StateMachine/bin/Debug/net8.0/StateMachine.deps.json
+D:/University/C# codes/Проекты/Модуль№3/Проект_3_ВтораяСдача/Project_3_Advanced/StateMachine/bin/Debug/net8.0/StateMachine.dll
+D:/University/C# codes/Проекты/Модуль№3/Проект_3_ВтораяСдача/Project_3_Advanced/StateMachine/bin/Debug/net8.0/StateMachine.pdb
+D:/University/C# codes/Проекты/Модуль№3/Проект_3_ВтораяСдача/Project_3_Advanced/StateMachine/obj/Debug/net8.0/StateMachine.csproj.AssemblyReference.cache
+D:/University/C# codes/Проекты/Модуль№3/Проект_3_ВтораяСдача/Project_3_Advanced/StateMachine/obj/Debug/net8.0/StateMachine.GeneratedMSBuildEditorConfig.editorconfig
+D:/University/C# codes/Проекты/Модуль№3/Проект_3_ВтораяСдача/Project_3_Advanced/StateMachine/obj/Debug/net8.0/StateMachine.AssemblyInfoInputs.cache
+D:/University/C# codes/Проекты/Модуль№3/Проект_3_ВтораяСдача/Project_3_Advanced/StateMachine/obj/Debug/net8.0/StateMachine.AssemblyInfo.cs
+D:/University/C# codes/Проекты/Модуль№3/Проект_3_ВтораяСдача/Project_3_Advanced/StateMachine/obj/Debug/net8.0/StateMachine.csproj.CoreCompileInputs.cache
+D:/University/C# codes/Проекты/Модуль№3/Проект_3_ВтораяСдача/Project_3_Advanced/StateMachine/obj/Debug/net8.0/StateMachine.dll
+D:/University/C# codes/Проекты/Модуль№3/Проект_3_ВтораяСдача/Project_3_Advanced/StateMachine/obj/Debug/net8.0/refint/StateMachine.dll
+D:/University/C# codes/Проекты/Модуль№3/Проект_3_ВтораяСдача/Project_3_Advanced/StateMachine/obj/Debug/net8.0/StateMachine.pdb
+D:/University/C# codes/Проекты/Модуль№3/Проект_3_ВтораяСдача/Project_3_Advanced/StateMachine/obj/Debug/net8.0/ref/StateMachine.dll
+/Users/sem0nch1k/Documents/ВШЭ/Первый курс/С#/Проекты/Модуль№3/Проект_3_ВтораяСдача 2/Project_3_Advanced/StateMachine/bin/Debug/net8.0/StateMachine.deps.json
+/Users/sem0nch1k/Documents/ВШЭ/Первый курс/С#/Проекты/Модуль№3/Проект_3_ВтораяСдача 2/Project_3_Advanced/StateMachine/bin/Debug/net8.0/StateMachine.dll
+/Users/sem0nch1k/Documents/ВШЭ/Первый курс/С#/Проекты/Модуль№3/Проект_3_ВтораяСдача 2/Project_3_Advanced/StateMachine/bin/Debug/net8.0/StateMachine.pdb
+/Users/sem0nch1k/Documents/ВШЭ/Первый курс/С#/Проекты/Модуль№3/Проект_3_ВтораяСдача 2/Project_3_Advanced/StateMachine/obj/Debug/net8.0/StateMachine.csproj.AssemblyReference.cache
+/Users/sem0nch1k/Documents/ВШЭ/Первый курс/С#/Проекты/Модуль№3/Проект_3_ВтораяСдача 2/Project_3_Advanced/StateMachine/obj/Debug/net8.0/StateMachine.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sem0nch1k/Documents/ВШЭ/Первый курс/С#/Проекты/Модуль№3/Проект_3_ВтораяСдача 2/Project_3_Advanced/StateMachine/obj/Debug/net8.0/StateMachine.AssemblyInfoInputs.cache
+/Users/sem0nch1k/Documents/ВШЭ/Первый курс/С#/Проекты/Модуль№3/Проект_3_ВтораяСдача 2/Project_3_Advanced/StateMachine/obj/Debug/net8.0/StateMachine.AssemblyInfo.cs
+/Users/sem0nch1k/Documents/ВШЭ/Первый курс/С#/Проекты/Модуль№3/Проект_3_ВтораяСдача 2/Project_3_Advanced/StateMachine/obj/Debug/net8.0/StateMachine.csproj.CoreCompileInputs.cache
+/Users/sem0nch1k/Documents/ВШЭ/Первый курс/С#/Проекты/Модуль№3/Проект_3_ВтораяСдача 2/Project_3_Advanced/StateMachine/obj/Debug/net8.0/StateMachine.dll
+/Users/sem0nch1k/Documents/ВШЭ/Первый курс/С#/Проекты/Модуль№3/Проект_3_ВтораяСдача 2/Project_3_Advanced/StateMachine/obj/Debug/net8.0/refint/StateMachine.dll
+/Users/sem0nch1k/Documents/ВШЭ/Первый курс/С#/Проекты/Модуль№3/Проект_3_ВтораяСдача 2/Project_3_Advanced/StateMachine/obj/Debug/net8.0/StateMachine.pdb
+/Users/sem0nch1k/Documents/ВШЭ/Первый курс/С#/Проекты/Модуль№3/Проект_3_ВтораяСдача 2/Project_3_Advanced/StateMachine/obj/Debug/net8.0/ref/StateMachine.dll
